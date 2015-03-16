@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Classic_Theme/bkg.png</file>
+        <file>Classic_Theme/CellEmpty.png</file>
+        <file>Classic_Theme/CellO.png</file>
+        <file>Classic_Theme/CellX.png</file>
+        <file>Classic_Theme/HeaderBG.png</file>
+        <file>Classic_Theme/HeaderBG_Shadow.png</file>
+        <file>Classic_Theme/logo.png</file>
+        <file>Classic_Theme/options.png</file>
+        <file>Classic_Theme/replay.png</file>
+        <file>Pika_Theme/bkg.png</file>
+        <file>Pika_Theme/CellEmpty.png</file>
+        <file>Pika_Theme/CellO.png</file>
+        <file>Pika_Theme/CellX.png</file>
+        <file>Pika_Theme/HeaderBG.png</file>
+        <file>Pika_Theme/HeaderBG_Shadow.png</file>
+        <file>Pika_Theme/logo.png</file>
+        <file>Pika_Theme/options.png</file>
+        <file>Pika_Theme/replay.png</file>
+    </qresource>
+</RCC>

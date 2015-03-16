@@ -1,0 +1,13 @@
+ [0] - Classic
+ [1] - Pika
+
+
+ [0] - Background
+ [1] - Empty Cell
+ [2] - Cell O
+ [3] - Cell X
+ [4] - Header
+ [5] - Headers`s shadow
+ [6] - Logo
+ [7] - Options
+ [8] - Replay
